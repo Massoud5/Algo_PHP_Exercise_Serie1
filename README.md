@@ -1,6 +1,9 @@
 # Elan Formation exercices 
 
-#### Algorithmes in php
+## php Alorithmes and OOP
+
+
+### What I learned:
 
 #### Native fuctions
     - strlen()
