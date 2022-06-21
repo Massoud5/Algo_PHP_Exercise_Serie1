@@ -12,8 +12,8 @@
 $born = new DateTime('01/17/1985');
 $now = new DateTime('05/21/2018');
 
-/* La date d'aujourd'hui*/ 
-// $now = new DateTime();
+
+// $now = new DateTime(); /* La date d'aujourd'hui = parenthèse vide*/ 
 
 
 $diff = date_diff($born, $now);

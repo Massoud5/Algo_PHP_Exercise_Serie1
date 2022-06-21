@@ -1,4 +1,4 @@
-# Elan Formation exercices 
+# Elan Formation exercises 
 
 ## php Alorithmes and OOP
 

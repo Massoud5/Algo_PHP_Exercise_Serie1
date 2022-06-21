@@ -12,7 +12,6 @@ $phraseNoSpace = str_replace(" ", "", $phrase);
 $phraseLower = strtolower($phraseNoSpace);
 $phraseInverse = strrev($phraseLower);
 
-// $test = strrev(str_replace(" ", "", strtolower($phrase)));
 
 
 if ($phraseLower == $phraseInverse){
